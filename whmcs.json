@@ -1,0 +1,17 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "zwitch",
+  "license": "proprietary",
+  "category": "payments",
+  "description": "Zwitch Payment Gateway module for WHMCS",
+  "support": {
+    "docs_url": "https://docs.whmcs.com/Zwitch"
+  },
+  "authors": [
+    {
+      "name": "WHMCS",
+      "homepage": "https://www.whmcs.com/"
+    }
+  ]
+}
